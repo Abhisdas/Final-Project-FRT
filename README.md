@@ -2,7 +2,7 @@
 Here, i have created a Edu School Web app named College-Website that helps the Childern to grasp good Knowledge online along with rating and they will be able to Choose Course Wisely.
 
 ## My Website Link : https://orange-glacier-0f3b97d10.3.azurestaticapps.net
-
+## My Website Link : https://abhishekdas.pages.dev/
 
 ## Home page 
 
